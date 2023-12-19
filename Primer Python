@@ -1,1 +1,4 @@
 print('Feliz navidad')
+a = 'Hola mundo'
+for x in a:
+    print(x)
